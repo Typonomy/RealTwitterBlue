@@ -7,7 +7,7 @@
   "description": "Gives Twitter a water background.",
 
   "icons": {
-    "48": "icons/RainIcon.jpg"
+    "48": "https://github.com/Typonomy/RealTwitterBlue/blob/765189cc1e4f6ee40a9d2546aeac774dff3f8d70/icons/RainIcon.jpg"
   },
 
   "content_scripts": [
